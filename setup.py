@@ -20,7 +20,7 @@ VERSION = '0.6.2'
 # What packages are required for this module to be executed?
 REQUIRED = [
     'boto3==1.12.37',
-    'cryptography==3.3.2',
+    'cryptography==42.0.0',
     'click==7.1.1',
     'pyyaml==5.3.1',
     'requests==2.23.0',
